@@ -82,4 +82,4 @@ Always set `COURIER_API_KEY`, keep credentials in environment variables, and cal
 
 ## License
 
-MIT (or your choice).
+GPL
