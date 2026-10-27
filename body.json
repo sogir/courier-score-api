@@ -1,0 +1,37 @@
+{
+    "phone": "01XXXXXXXXX",
+    "debug": false,
+
+    "steadfast": {
+        "api_key": "YOUR_STEADFAST_API_KEY",
+        "api_secret": "YOUR_STEADFAST_API_SECRET"
+    },
+
+    "pathao": {
+        "username": "YOUR_PATHAO_EMAIL",
+        "password": "YOUR_PATHAO_PASSWORD",
+        "client_id": "YOUR_PATHAO_CLIENT_ID",
+        "client_secret": "YOUR_PATHAO_CLIENT_SECRET"
+    },
+
+    "redx": {
+        "phone": "YOUR_REDX_MERCHANT_PHONE",
+        "password": "YOUR_REDX_PASSWORD"
+    },
+
+    "carrybee": {
+        "phone": "YOUR_CARRYBEE_MERCHANT_PHONE",
+        "password": "YOUR_CARRYBEE_PASSWORD"
+    },
+
+    "paperfly": {
+        "username": "YOUR_PAPERFLY_USERNAME",
+        "password": "YOUR_PAPERFLY_PASSWORD"
+    },
+
+    "ecourier": {
+        "api_key": "YOUR_ECOURIER_API_KEY",
+        "api_secret": "YOUR_ECOURIER_API_SECRET",
+        "user_id": "YOUR_ECOURIER_LOGIN_ID"
+    }
+}
